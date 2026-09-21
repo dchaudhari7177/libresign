@@ -69,7 +69,7 @@ hear about your experience, whether or not your work was merged — the setup
 step or the issue description that stopped you is the one we most need to hear
 about, and the post-merge note never reaches you.
 
-[Contributor experience survey][contributor-survey]
+[Contributor experience survey](https://ls.librecode.coop/index.php/289381?lang=pt-BR)
 
 <!-- The base URL is the CONTRIBUTOR_SURVEY_URL repository variable that the
      workflow reads; markdown cannot read it, so it is written out once here.
